@@ -1,0 +1,2 @@
+# Osticket
+Configuração, Parametrização, automatização
